@@ -25,7 +25,7 @@ VOVO 를 이용해주셔서 감사합니다! </br>
 궁금한 점이나 문의할 사항을 이메일 또는 평가에 남겨주시면 </br>
 좀 더 나은 서비스를 위해 개선하겠습니다.
 
-문의 및 피드백 :dev.yutae@gmail.com  </br>
+email :dev.yutae@gmail.com  </br>
 
 Developer - yutae </br>
 Designer - J.H Song </br>
